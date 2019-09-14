@@ -59,4 +59,4 @@ include $(PSPSDK)/lib/build.mak
 
 install:
 	cp $(TARGET_LIB) $(PSPSDK)/lib
-	cp pspmath.h $(PSPSDK)/include
+	cp include/pspmath.h $(PSPSDK)/include
